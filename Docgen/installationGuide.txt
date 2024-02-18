@@ -1,0 +1,1 @@
+windows_amd64 build -i API.postman_collection.json -o index.html
